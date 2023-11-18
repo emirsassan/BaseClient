@@ -1,0 +1,8 @@
+{
+  "mixinConfigs": [
+    "base.mixins.json"
+  ],
+  "entrypoints": [
+    "me.sassan.base.Base"
+  ]
+}
